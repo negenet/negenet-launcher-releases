@@ -1,8 +1,8 @@
 {
-  "_note": "Negenet IG feed. Edit posts[] to update the 3 cards on the launcher. type:'video' shows a play badge.",
+  "_note": "Negenet IG feed. Edit posts[] to update the 3 cards. type:'video' + videoUrl autoplays muted.",
   "posts": [
     { "image": "https://raw.githubusercontent.com/negenet/negenet-launcher-releases/main/ig/ig1.jpg", "caption": "", "permalink": "https://www.instagram.com/p/DY9YUpTDJ-1/", "type": "image" },
-    { "image": "https://raw.githubusercontent.com/negenet/negenet-launcher-releases/main/ig/ig2.jpg", "caption": "", "permalink": "https://www.instagram.com/p/DYZTghYghpE/", "type": "video" },
+    { "image": "https://raw.githubusercontent.com/negenet/negenet-launcher-releases/main/ig/ig2.jpg", "caption": "", "permalink": "https://www.instagram.com/p/DYZTghYghpE/", "type": "video", "videoUrl": "https://raw.githubusercontent.com/negenet/negenet-launcher-releases/main/ig/ig2.mp4" },
     { "image": "https://raw.githubusercontent.com/negenet/negenet-launcher-releases/main/ig/ig3.jpg", "caption": "", "permalink": "https://www.instagram.com/p/DLiP3OYIwBT/", "type": "image" }
   ]
 }
