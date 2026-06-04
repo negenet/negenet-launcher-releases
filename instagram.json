@@ -1,0 +1,8 @@
+{
+  "_note": "Placeholder feed until the IG Graph API is wired server-side. Replace posts[] with real {image, caption, permalink}.",
+  "posts": [
+    { "image": "https://raw.githubusercontent.com/negenet/negenet-launcher-releases/main/negenet_logo.png", "caption": "Mirë se vini në Negenet · Internet fiber GPON", "permalink": "https://www.instagram.com/negenet_" },
+    { "image": "https://raw.githubusercontent.com/negenet/negenet-launcher-releases/main/negenet_logo.png", "caption": "Shpejtësi pa kufi në çdo pajisje të shtëpisë", "permalink": "https://www.instagram.com/negenet_" },
+    { "image": "https://raw.githubusercontent.com/negenet/negenet-launcher-releases/main/negenet_logo.png", "caption": "Na ndiq @negenet_ për oferta dhe lajme", "permalink": "https://www.instagram.com/negenet_" }
+  ]
+}
