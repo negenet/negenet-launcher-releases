@@ -1,3 +1,12 @@
 {
-  "omnius": { "versionCode": 2, "versionName": "1.0.1-kali", "apk": "https://github.com/negenet/negenet-launcher-releases/releases/download/apps/omnius.apk" }
+  "omnius": {
+    "versionCode": 2,
+    "versionName": "1.0.1-kali",
+    "apk": "https://github.com/negenet/negenet-launcher-releases/releases/download/apps/omnius.apk"
+  },
+  "negenet-tv": {
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "apk": "https://github.com/negenet/negenet-launcher-releases/releases/download/apps/negenet-tv.apk"
+  }
 }
