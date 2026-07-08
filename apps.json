@@ -18,5 +18,10 @@
     "versionCode": 2,
     "versionName": "1.0.1",
     "apk": "https://github.com/negenet/negenet-launcher-releases/releases/download/apps/lajme.apk"
+  },
+  "smartube": {
+    "versionCode": 2384,
+    "versionName": "31.94",
+    "apk": "https://github.com/negenet/negenet-launcher-releases/releases/download/apps/smartube.apk"
   }
 }
