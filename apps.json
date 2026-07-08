@@ -10,8 +10,8 @@
     "apk": "https://github.com/negenet/negenet-launcher-releases/releases/download/apps/negenet-tv.apk"
   },
   "tv24": {
-    "versionCode": 2,
-    "versionName": "1.0.1",
+    "versionCode": 3,
+    "versionName": "1.0.2",
     "apk": "https://github.com/negenet/negenet-launcher-releases/releases/download/apps/tv24.apk"
   },
   "lajme": {
