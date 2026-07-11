@@ -23,5 +23,10 @@
     "versionCode": 2384,
     "versionName": "31.94",
     "apk": "https://github.com/negenet/negenet-launcher-releases/releases/download/apps/smartube.apk"
+  },
+  "store": {
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "apk": "https://github.com/negenet/negenet-launcher-releases/releases/download/apps/store.apk"
   }
 }
