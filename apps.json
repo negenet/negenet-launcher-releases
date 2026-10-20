@@ -5,8 +5,8 @@
     "apk": "https://github.com/negenet/negenet-launcher-releases/releases/download/apps/omnius.apk"
   },
   "negenet-tv": {
-    "versionCode": 13,
-    "versionName": "1.1.5",
+    "versionCode": 14,
+    "versionName": "1.1.6",
     "apk": "https://github.com/negenet/negenet-launcher-releases/releases/download/apps/negenet-tv.apk"
   },
   "tv24": {
